@@ -2,6 +2,8 @@
 
 # Name: Shreya Jayesh Biltheria
 
+# BATCH - JAN Batch A25
+
 ## Overview
 
 This repository documents the completion of Task 1 for the CodSoft Data Science Internship. The task involves the Titanic Survival Prediction project, where the goal is to analyze and predict the survival of passengers aboard the Titanic based on various features.
